@@ -77,7 +77,7 @@ Console.WriteLine();
 PrintMatrix(deleteRowColumnMinElem);
 
 
-
+//https://studwork.ru/spravochnik/matematika/matricy/umnojenie-matric
 
 
 
